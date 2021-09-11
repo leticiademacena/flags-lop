@@ -1,4 +1,4 @@
-# Flags
+# :brazil: Flags
 
 Universidade Federal do Rio Grande do Norte
 
